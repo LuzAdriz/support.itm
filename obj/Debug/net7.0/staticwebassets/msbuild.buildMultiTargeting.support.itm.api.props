@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\support.itm.api.props" />
+</Project>

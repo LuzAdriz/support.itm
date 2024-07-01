@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NKdw/MiFQhEbexee4ALytOBwtc99Q3KqDCiXtWgb60A=",
+  "Source": "support.itm.api",
+  "BasePath": "_content/support.itm.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
